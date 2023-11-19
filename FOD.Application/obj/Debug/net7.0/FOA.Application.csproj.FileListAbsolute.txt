@@ -1,0 +1,15 @@
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\bin\Debug\net7.0\FOA.Application.deps.json
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\bin\Debug\net7.0\FOA.Application.dll
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\bin\Debug\net7.0\FOA.Application.pdb
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\bin\Debug\net7.0\FOA.Core.dll
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\bin\Debug\net7.0\FOA.Core.pdb
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\obj\Debug\net7.0\FOA.Application.csproj.AssemblyReference.cache
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\obj\Debug\net7.0\FOA.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\obj\Debug\net7.0\FOA.Application.AssemblyInfoInputs.cache
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\obj\Debug\net7.0\FOA.Application.AssemblyInfo.cs
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\obj\Debug\net7.0\FOA.Application.csproj.CoreCompileInputs.cache
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\obj\Debug\net7.0\FOA.Application.csproj.CopyComplete
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\obj\Debug\net7.0\FOA.Application.dll
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\obj\Debug\net7.0\refint\FOA.Application.dll
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\obj\Debug\net7.0\FOA.Application.pdb
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Application\obj\Debug\net7.0\ref\FOA.Application.dll

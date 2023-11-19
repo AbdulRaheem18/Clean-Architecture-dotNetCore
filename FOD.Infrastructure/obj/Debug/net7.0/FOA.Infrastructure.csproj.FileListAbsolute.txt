@@ -1,0 +1,17 @@
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\bin\Debug\net7.0\FOA.Infrastructure.deps.json
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\bin\Debug\net7.0\FOA.Infrastructure.dll
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\bin\Debug\net7.0\FOA.Infrastructure.pdb
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\bin\Debug\net7.0\FOA.Core.dll
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\bin\Debug\net7.0\FOA.Core.pdb
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\obj\Debug\net7.0\FOA.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\obj\Debug\net7.0\FOA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\obj\Debug\net7.0\FOA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\obj\Debug\net7.0\FOA.Infrastructure.AssemblyInfo.cs
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\obj\Debug\net7.0\FOA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\obj\Debug\net7.0\FOA.Infrastructure.csproj.CopyComplete
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\obj\Debug\net7.0\FOA.Infrastructure.dll
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\obj\Debug\net7.0\refint\FOA.Infrastructure.dll
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\obj\Debug\net7.0\FOA.Infrastructure.pdb
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\obj\Debug\net7.0\ref\FOA.Infrastructure.dll
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\bin\Debug\net7.0\FOA.Infrastructure.runtimeconfig.json
+C:\Users\abdul.raheem\source\repos\FOD\FOD.Infrastructure\obj\Debug\net7.0\FOA.Infrastructure.genruntimeconfig.cache
